@@ -1,4 +1,4 @@
-package com.bugis.linkup;
+package com.bugisu.linkup;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
